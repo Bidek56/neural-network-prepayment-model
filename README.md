@@ -10,6 +10,6 @@ What is a mortgage prepayment? It comes in several forms. The most basic form is
 
 Besides SMM, another common measure of mortgage prepayments is annualized SMM which is called CPR (Constant Prepayment Rate). SMM and CPR are connected by the following simple formula. CPR is also measured in % of outstanding principal. 
 
-                            CPR = 1-(1-SMM)**12
+                            CPR = 1-(1-SMM)^12
                             
 Mortgage pools have many relevant attributes such as average morgage rate that borrowers in a pool pay, average FICO score of borrowers, LTV (loan to value ratio), and many more. 
