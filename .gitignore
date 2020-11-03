@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 notebook_env_all_3_dfs.db
+notebook_env__df.db
