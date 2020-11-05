@@ -6,7 +6,7 @@ Mortgage pools are tradable fixed income securities composed of collections of r
 
 For more information about this project please, see **Proposal.pdf**, which contains more of the background information, problem statement, data description, and our approach to model building. 
 
-## Files included. 
+## Files included
 
 1. ### Proposal.pdf <br/>
       Describes the problem, gives background information, and outlines data structure and solution roadmap. 
@@ -20,3 +20,10 @@ For more information about this project please, see **Proposal.pdf**, which cont
       This is a project report required by the Udacity capstone project rubric. It contains the summary of the project and results. 
 1. ### nn-ppm-from-csv.h5  <br/>
       If you want to avoid spending time to fit your own model while executing model_fitting notebook (see 4.), you can just load the model from this file. 
+
+## Core libraries used in this project
+
+1. Pandas, Numpy
+1. Matplotlib, Seaborn
+1. Tensorflow, Keras
+1. kerastuner
