@@ -1,6 +1,6 @@
 # neural-network-prepayment-model
 
-Here we build a neural-network based prepayment model to predict the likelihood of prepayments on pools of residential mortgage loans.
+Here we build a neural-network based prepayment model to predict a likelihood of prepayments on pools of residential mortgage loans.
 
 Mortgage pools are tradable fixed income securities composed of collections of residential mortgage loans. Here we only consider the so called "agency" mortgage pools, i.e. those whose credit risk (the risk of borrower's default) is guaranteed by one of the GSEs (Government Sponsored Enterprises) which are Fannie Mae, Freddie Mac, and Ginnie Mae. More specifically, we build a prepayment model here for predicting the likelyhood of residential mortgage prepayments for loans guaranteed by Fannie Mae. The same model can be used to predict prepayments on loans guaranteed by Freddie Mac, because they are very similar, but not Ginnie Mae loans, which are somewhat different. 
 
