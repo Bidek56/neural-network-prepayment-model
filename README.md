@@ -8,7 +8,7 @@ For more information about this project please, see document "Proposal.pdf". It 
 
 # Files included. 
 
-1. Proposal.pdf
+1. Proposal.pdf \ 
       Describes the problem, gives background information, and outlines data structure and solution roadmap. 
 2. pools_dataset_builder.ipynb 
       This can only be run by the author. It builds the dataset used in the model from the raw data files which the author has downloaded from a vendor. You won't be able to run this notebook  unless you have access to those files, but running this notebook is not required as all the data is provided. This notebook however, shows how data is cleaned and NAs are filled. 
