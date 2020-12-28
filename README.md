@@ -26,4 +26,3 @@ For more information about this project please, see **Proposal.pdf**, which cont
 1. Pandas, Numpy
 1. Matplotlib, Seaborn
 1. Tensorflow, Keras
-1. kerastuner
